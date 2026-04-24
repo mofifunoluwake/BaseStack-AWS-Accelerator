@@ -14,7 +14,7 @@ To architect highly available, secure, and cost-optimised cloud environments whi
 ## 📂 Task Index
 
 ### Week 1: [Topic, e.g., Cloud Fundamentals & Security]
-* [Day 1: IAM Setup & Root Account Security](./Week_01/Day_01.md)
+* [Day 1: IAM Setup & Root Account Security](./Week_01_Pre_Work_and_IAM/Day_01.md)
 * [Day 2: Billing Alarms & Budgets](./Week_01/Day_02.md)
 * [Day 3: Task Name](./Week_01/Day_03.md)
 * [Day 4: Task Name](./Week_01/Day_04.md)
