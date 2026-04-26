@@ -13,11 +13,11 @@ To architect highly available, secure, and cost-optimised cloud environments whi
 
 ## 📂 Task Index
 
-### Week 1: [Topic, e.g., Cloud Fundamentals & Security]
-* [Day 1: IAM Setup & Root Account Security](./Week_01_Pre_Work_and_IAM/Day_01.md)
-* [Day 2: Billing Alarms & Budgets](./Week_01/Day_02.md)
-* [Day 3: Task Name](./Week_01/Day_03.md)
-* [Day 4: Task Name](./Week_01/Day_04.md)
-* [Day 5: Task Name](./Week_01/Day_05.md)
+### Week 1:
+* [Day 1: What Is Cloud Computing?](./Week_01/Day_01.md)
+* [Day 2: AWS Regions](./Week_01/Day_02.md)
+* [Day 3: The Shared Responsibility Model](./Week_01/Day_03.md)
+* [Day 4: Cloud Economics](./Week_01/Day_04.md)
+* [Day 5: Pre-Flight Setup: IAM & Account Security Setup](./Week_01/Day_05.md)
 
 *(This table of contents will grow as the weeks progress)*
