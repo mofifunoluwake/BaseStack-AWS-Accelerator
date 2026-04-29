@@ -23,7 +23,7 @@ To architect highly available, secure, and cost-optimised cloud environments whi
 
 ### Week 2:
 * [Day 1: IAM Deep Dive — Roles vs Users](./Week_02/Day_01.md)
-* [Day 2: Coming Soon](./Week_02/Day_02.md)
+* [Day 2: IAM Policies — Writing & Reading Permissions](./Week_02/Day_02.md)
 * [Day 3: Coming Soon](./Week_02/Day_03.md)
 * [Day 4: Coming Soon](./Week_02/Day_04.md)
 * [Day 5: Coming Soon](./Week_02/Day_05.md)
