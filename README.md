@@ -27,5 +27,14 @@ To architect highly available, secure, and cost-optimised cloud environments whi
 * [Day 3: SCPs & AWS Organizations](./Week_02/Day_03.md)
 * [Day 4: CloudTrail & Audit Logging](./Week_02/Day_04.md)
 * [Day 5: MFA & Security Best Practices](./Week_02/Day_05.md)
+
+
+  ### Week 3:
+* [Day 1: VPC Fundamentals](./Week_03/Day_01.md)
+* [Day 2: Subnets — Public vs Private](./Week_03/Day_02.md)
+* [Day 3: Route Tables, Internet Gateways & NAT](./Week_03/Day_03.md)
+* [Day 4: Security Groups & NACLs](./Week_03/Day_04.md)
+* [Day 5: MFA & Security Best Practices](./Week_03/Day_05.md)
+
   
 *(This table of contents will grow as the weeks progress)*
