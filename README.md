@@ -29,12 +29,18 @@ To architect highly available, secure, and cost-optimised cloud environments whi
 * [Day 5: MFA & Security Best Practices](./Week_02/Day_05.md)
 
 
-  ### Week 3:
+### Week 3:
 * [Day 1: VPC Fundamentals](./Week_03/Day_01.md)
 * [Day 2: Subnets — Public vs Private](./Week_03/Day_02.md)
 * [Day 3: Route Tables, Internet Gateways & NAT](./Week_03/Day_03.md)
 * [Day 4: Security Groups & NACLs](./Week_03/Day_04.md)
 * [Day 5: VPC Peering & Connectivity](./Week_03/Day_05.md)
 
-  
+### Week 4:
+* [Day 1: EC2 Introduction & Launch](./Week_04/Day_01.md)
+* [Day 2: EC2 Instance Types & AMIs](./Week_04/Day_02.md)
+* [Day 3: The Shared Responsibility Model](./Week_04/Day_03.md)
+* [Day 4: coming soon](./Week_04/Day_04.md)
+* [Day 5: coming soon](./Week_04/Day_05.md)
+
 *(This table of contents will grow as the weeks progress)*
