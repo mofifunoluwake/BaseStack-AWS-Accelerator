@@ -39,8 +39,8 @@ To architect highly available, secure, and cost-optimised cloud environments whi
 ### Week 4:
 * [Day 1: EC2 Introduction & Launch](./Week_04/Day_01.md)
 * [Day 2: EC2 Instance Types & AMIs](./Week_04/Day_02.md)
-* [Day 3: The Shared Responsibility Model](./Week_04/Day_03.md)
-* [Day 4: coming soon](./Week_04/Day_04.md)
-* [Day 5: coming soon](./Week_04/Day_05.md)
+* [Day 3: EC2 Pricing Models](./Week_04/Day_03.md)
+* [Day 4: Auto Scaling & Load Balancing](./Week_04/Day_04.md)
+* [Day 5: EC2 Storage — EBS, Instance Store, Snapshots & Encryption](./Week_04/Day_05.md)
 
 *(This table of contents will grow as the weeks progress)*
