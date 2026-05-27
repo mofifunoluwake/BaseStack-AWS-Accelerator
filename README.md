@@ -45,9 +45,9 @@ To architect highly available, secure, and cost-optimised cloud environments whi
 
 ### Week 5:
 * [Day 1: S3 Fundamentals](./Week_05/Day_01.md)
-* [Day 2: EC2 Instance Types & AMIs](./Week_05/Day_02.md)
-* [Day 3: EC2 Pricing Models](./Week_05/Day_03.md)
-* [Day 4: Auto Scaling & Load Balancing](./Week_05/Day_04.md)
-* [Day 5: EC2 Storage — EBS, Instance Store, Snapshots & Encryption](./Week_05/Day_05.md)
+* [Day 2: S3 Storage Classes & Lifecycle Rules](./Week_05/Day_02.md)
+* [Day 3: S3 Security & Access Control](./Week_05/Day_03.md)
+* [Day 4: ....](./Week_05/Day_04.md)
+* [Day 5: ...](./Week_05/Day_05.md)
 
 *(This table of contents will grow as the weeks progress)*
