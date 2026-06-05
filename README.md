@@ -47,7 +47,14 @@ To architect highly available, secure, and cost-optimised cloud environments whi
 * [Day 1: S3 Fundamentals](./Week_05/Day_01.md)
 * [Day 2: S3 Storage Classes & Lifecycle Rules](./Week_05/Day_02.md)
 * [Day 3: S3 Security & Access Control](./Week_05/Day_03.md)
-* [Day 4: ....](./Week_05/Day_04.md)
-* [Day 5: ...](./Week_05/Day_05.md)
+* [Day 4: EFS, FSx & Shared File Storage](./Week_05/Day_04.md)
+* [Day 5: Storage Gateway & DataSync](./Week_05/Day_05.md)
+
+### Week 6:
+* [Day 1: Database Selection on AWS](./Week_06/Day_01.md)
+* [Day 2: Amazon RDS Deep Dive](./Week_06/Day_02.md)
+* [Day 3: Amazon Aurora](./Week_06/Day_03.md)
+* [Day 4: Amazon DynamoDB](./Week_06/Day_04.md)
+* [Day 5: ElastiCache & In-Memory Databases](./Week_06/Day_05.md)
 
 *(This table of contents will grow as the weeks progress)*
