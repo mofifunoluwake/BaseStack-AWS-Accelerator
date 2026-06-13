@@ -57,4 +57,18 @@ To architect highly available, secure, and cost-optimised cloud environments whi
 * [Day 4: Amazon DynamoDB](./Week_06/Day_04.md)
 * [Day 5: ElastiCache & In-Memory Databases](./Week_06/Day_05.md)
 
+### Week 7:
+* [Day 1: Serverless & AWS Lambda](./Week_07/Day_01.md)
+* [Day 2: API Gateway & Event-Driven Architecture](./Week_07/Day_02.md)
+* [Day 3: Amazon SQS & SNS](./Week_07/Day_03.md)
+* [Day 4: Step Functions & Workflow Orchestration](./Week_07/Day_04.md)
+* [Day 5: CloudWatch & Observability](./Week_07/Day_05.md)
+
+### Week 8:
+* [Day 1: ...coming soon](./Week_08/Day_01.md)
+* [Day 2:...coming soon](./Week_08/Day_02.md)
+* [Day 3: ...coming soon](./Week_08/Day_03.md)
+* [Day 4: ...coming soon](./Week_08/Day_04.md)
+* [Day 5: ...coming soon](./Week_08/Day_05.md)
+
 *(This table of contents will grow as the weeks progress)*
